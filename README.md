@@ -7,5 +7,10 @@ uint b=60;
 
 
 
+<<<<<<< .mine
 Local modify
 
+=======
+
+
+>>>>>>> .theirs
