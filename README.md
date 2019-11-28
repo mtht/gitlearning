@@ -5,4 +5,6 @@ char d[3] = {0,1,2};
 uint a=50;
 uint b=60;
 
+remote be modified by others
+
 
