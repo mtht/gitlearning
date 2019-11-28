@@ -7,5 +7,5 @@ uint b=60;
 
 remote be modified by others
 
-local changed 
+
 
